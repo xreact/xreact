@@ -7,5 +7,5 @@ Here are some ideas to get you started:
   let's reinvent the wheel!
 
 - 📫 How to reach me: xreact@fastmail.fm
-- ⚡ Fun fact: it's fun isnt?
+- ⚡ Fun fact: it's fun isn't?
 -->
